@@ -16,14 +16,12 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠️ My tools
 
-### 👨‍💻 Languages ​​and Programs used
+### 👨‍💻 Languages 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-jupyter" height="30" width="40" src="https://github.com/jupyter/jupyter.github.io/blob/main/assets/share.png">
-  <img align="center" alt="Rafa-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   <img align="center" alt="Rafa-r" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Rafa-rstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
+  
 </div>
 
   
@@ -36,6 +34,16 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23013243.svg?logo=seaborn&logoColor=white"></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/PySpark-ffffff.svg?logo=apache-spark&logoColor=orange"></a>
   
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Metabase" src="https://img.shields.io/badge/Metabase-ffffff.svg?logo=Metabase&logoColor=blue"></a>
+    <a href="#"><img alt="Rstudio" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
+    
 </p>
 
 
