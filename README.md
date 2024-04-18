@@ -3,6 +3,10 @@
 - 👀 I’m interested in Data Science Projects
 - 🌱 I’m currently learning Machine Learning
 
+ 
+ <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+ <img src="https://komarev.com/ghpvc/?username=DaniloTAbreu&style=flat-square" alt="Profile views" align='right'/> <a href="https://github.com/DaniloTAbreu"> </a> 
+<br/>
 
 <!---
 DaniloTAbreu/DaniloTAbreu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
