@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DaniloTAbreu
-- 👀 I’m interested in Data Science projects
-- 🌱 I’m currently learning Machine learning
-- 📫 How to reach me ...
+## Hi, I´m Danilo Temerloglou de Abreu, Electrical Engineer and a Data Science Student!
 
+- 👀 I’m interested in Data Science Projects
+- 🌱 I’m currently learning Machine Learning
 
 
 <!---
@@ -10,13 +9,13 @@ DaniloTAbreu/DaniloTAbreu is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-## Olá, eu sou Danilo Temerloglou de Abreu, Engenheiro eletricista e estudante de Ciência de Dados!
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-jupyter" height="30" width="40" src="https://github.com/jupyter/jupyter.github.io/blob/main/assets/share.png">
   <img align="center" alt="Rafa-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   <img align="center" alt="Rafa-r" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Rafa-rstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
 </div>
   
   ##
