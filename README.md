@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="Pyspark" src="https://img.shields.io/badge/PySpark-ffffff.svg?logo=apache-spark&logoColor=orange"></a>
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black"></a>
  
 </p>
 
