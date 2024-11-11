@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
     
 </p>
 
-### ![Uploading visualization.jpeg…]() Visualization
+### 📊 Visualization
 
 <p>
     <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=power-bi&logoColor=white"></a>
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
     
 </p>
 
- ### Contact
+ ### 📞 Contact
 <div> 
   <a href="https://www.linkedin.com/in/danilo-temerloglou-de-abreu-27182950" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
