@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-ffffff.svg?logo=scikitlearn&logoColor=orange"></a>
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23013243.svg?logo=seaborn&logoColor=white"></a>
     <a href="#"><img alt="Pyspark" src="https://img.shields.io/badge/PySpark-ffffff.svg?logo=apache-spark&logoColor=orange"></a>
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
