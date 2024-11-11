@@ -1,7 +1,7 @@
 ## Hi, I´m Danilo Temerloglou de Abreu, Electrical Engineer and a Data Science Student!
 
 - 👀 I’m interested in Data Science Projects
-- 🌱 I’m currently developing machine learning projects
+- 🌱 I’m currently developing machine learning projects, learning data engineering and data analysis.
 
  
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
