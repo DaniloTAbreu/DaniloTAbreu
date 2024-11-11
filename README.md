@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 <p>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Metabase" src="https://img.shields.io/badge/Metabase-ffffff.svg?logo=Metabase&logoColor=blue"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Rstudio" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
     
 </p>
