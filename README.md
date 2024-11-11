@@ -49,6 +49,15 @@ You can click the Preview link to take a look at your changes.
     
 </p>
 
+###  Visualization
+
+<p>
+    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=power-bi&logoColor=white"></a>
+    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
+    <a href="#"><img alt="Dash" src="https://img.shields.io/badge/Dash-3E4E88.svg?logo=plotly&logoColor=white"></a>
+    <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white"></a>  
+    
+</p>
 
  ### Contact
 <div> 
