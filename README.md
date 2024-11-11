@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
     
 </p>
 
-###  Visualization
+### ![Uploading visualization.jpeg…]() Visualization
 
 <p>
     <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=power-bi&logoColor=white"></a>
